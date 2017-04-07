@@ -1,0 +1,6 @@
+C:\Users\ronald.junior.NAVE0\Documents\Visual Studio 2015\Projects\HighscoresAV\HighscoresAV\bin\Debug\HighscoresAV.exe.config
+C:\Users\ronald.junior.NAVE0\Documents\Visual Studio 2015\Projects\HighscoresAV\HighscoresAV\bin\Debug\HighscoresAV.exe
+C:\Users\ronald.junior.NAVE0\Documents\Visual Studio 2015\Projects\HighscoresAV\HighscoresAV\bin\Debug\HighscoresAV.pdb
+C:\Users\ronald.junior.NAVE0\Documents\Visual Studio 2015\Projects\HighscoresAV\HighscoresAV\obj\Debug\HighscoresAV.csprojResolveAssemblyReference.cache
+C:\Users\ronald.junior.NAVE0\Documents\Visual Studio 2015\Projects\HighscoresAV\HighscoresAV\obj\Debug\HighscoresAV.exe
+C:\Users\ronald.junior.NAVE0\Documents\Visual Studio 2015\Projects\HighscoresAV\HighscoresAV\obj\Debug\HighscoresAV.pdb
